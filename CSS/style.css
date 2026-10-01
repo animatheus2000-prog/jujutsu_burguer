@@ -1,0 +1,14 @@
+body{
+    background-color: #251717;
+    color: azure;
+}
+
+
+li{
+    display:inline-block;
+    color:white
+}
+
+a{
+    color:white
+}
